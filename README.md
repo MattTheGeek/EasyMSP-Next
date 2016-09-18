@@ -1,7 +1,5 @@
-# EasyMSP
-Enabling Low Cost Easy Development on the launchpad
+# EasyMSP-Next
+The Next Generation Of EasyMSP -  Let's enable low cost and easy development for MSP430 & MSP432 devices!
 
-In short, EasyMSP is a set of libraries and open source hardware designed to make development on the MSP430 "Fast, Easy, And Affordable." 
+EasyMSP is a set of libraries and open source hardware designed to make development on the MSP430 "Fast, Easy, And Affordable."
 
-# Relocating
-Google code is shutting down their project hosting service. As such, we are moving back to GitHub.
